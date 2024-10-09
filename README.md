@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Dewanggaz/Dewanggaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>halo nama saya dewangga zidan pratama </h1>
+<p>saya lahir pada 14 maret 2009</p>
+<p>saya sekolah di smk letris indonesia 2</p>
+<p>saya tinggal di jalan otista raya </p>
+<h2>hobby</h2>
+<ul>
+  <li>main efotball</li>
+  <li>tidur</li>
+  <li>main badminton</li>
+</ul>
+<h2>keahlian</h2>
+<ul>
+  <li>jago main efotball</li>
+  <li>bisa mtk</li>
+</ul>
