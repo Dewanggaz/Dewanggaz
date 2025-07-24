@@ -4,7 +4,7 @@
 <p>saya tinggal di jalan otista raya </p>
 <h2>hobby</h2>
 <ul>
-  <li>main efotball</li>
+  <li>main efotball</li style = color=black>
   <li>tidur</li>
   <li>main badminton</li>
 </ul>
